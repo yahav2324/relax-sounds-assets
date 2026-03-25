@@ -2,6 +2,7 @@
   {
     "id": "rain",
     "label": "Rain",
+    "category": "Nature",
     "fileName": "rain.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/rain.webp",
     "glow": "#4CAF50"
@@ -9,6 +10,7 @@
   {
     "id": "waves",
     "label": "Ocean",
+    "category": "Nature",
     "fileName": "waves.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/waves.webp",
     "glow": "#2196F3"
@@ -16,6 +18,7 @@
   {
     "id": "fire",
     "label": "Fire",
+    "category": "Nature",
     "fileName": "fire.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/fire.webp",
     "glow": "#F44336"
@@ -23,6 +26,7 @@
   {
     "id": "white_noise",
     "label": "White Noise",
+    "category": "Sleep",
     "fileName": "white_noise.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/white_noise.webp",
     "glow": "#E0E0E0"
@@ -30,6 +34,7 @@
   {
     "id": "thunder",
     "label": "Thunder",
+    "category": "Nature",
     "fileName": "thunder.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/thunder.webp",
     "glow": "#FFEB3B"
@@ -37,6 +42,7 @@
   {
     "id": "forest",
     "label": "Forest",
+    "category": "Nature",
     "fileName": "forest.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/forest.webp",
     "glow": "#00E676"
@@ -44,6 +50,7 @@
   {
     "id": "birds",
     "label": "Birds",
+    "category": "Nature",
     "fileName": "birds.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/birds.webp",
     "glow": "#2196F3"
@@ -51,6 +58,7 @@
   {
     "id": "desert",
     "label": "Desert",
+    "category": "Nature",
     "fileName": "desert.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/desert.webp",
     "glow": "#F44336"
@@ -58,6 +66,7 @@
   {
     "id": "wind",
     "label": "Wind",
+    "category": "Nature",
     "fileName": "wind.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/wind.webp",
     "glow": "#E0E0E0"
@@ -65,6 +74,7 @@
   {
     "id": "train",
     "label": "Train",
+    "category": "Travel",
     "fileName": "train.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/train.webp",
     "glow": "#FFEB3B"
@@ -72,13 +82,15 @@
   {
     "id": "airplane",
     "label": "Airplane",
+    "category": "Travel",
     "fileName": "airplane.mp3",
-    "iconUrl": "https://yahav2324.githubLine.io/relax-sounds-assets/video/airplane.webp",
+    "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/airplane.webp",
     "glow": "#4CAF50"
   },
   {
     "id": "city",
     "label": "City",
+    "category": "Travel",
     "fileName": "city.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/city.webp",
     "glow": "#2196F3"
@@ -86,6 +98,7 @@
   {
     "id": "piano",
     "label": "Piano",
+    "category": "Focus",
     "fileName": "piano.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/piano.webp",
     "glow": "#F44336"
@@ -93,6 +106,7 @@
   {
     "id": "meditation",
     "label": "Meditation",
+    "category": "Focus",
     "fileName": "meditation.mp3",
     "iconUrl": "https://yahav2324.github.io/relax-sounds-assets/video/meditation.webp",
     "glow": "#E0E0E0"
