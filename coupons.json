@@ -1,0 +1,16 @@
+[
+  {
+    "code": "ZAMIR",
+    "type": "FREE_FOREVER"
+  },
+  {
+    "code": "MOMMY10",
+    "type": "EXTRA_SONGS",
+    "amount": 10
+  },
+  {
+    "code": "MOMMY2026",
+    "type": "TIME_LIMITATION",
+    "expiry": 1773266400000 
+  }
+]
